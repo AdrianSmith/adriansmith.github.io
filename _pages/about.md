@@ -1,35 +1,13 @@
 ---
-title: About Journal
-subtitle: A stunning personal blog Jekyll theme with an image-focused design.
-description: A stunning personal blog Jekyll theme with an image-focused design.
-featured_image: /images/demo/demo-portrait.jpg
+title: Adrian Smith
+subtitle: Personal blog
+featured_image: /images/demo/demo-square.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+Dr Adrian Smith is an industry leader in adapting and applying Agile and Lean methods within software engineering and business technology. As a sought-after consultant, he has led and coached engineering and software development teams for major brands including Airbus, GKN Aerospace, BBC Worldwide, Suncorp, Nokia and Data#3.
 
-## Features
+![](/images/profile/adrian_2018.jpg)
 
-Journal is packed with powerful features to showcase your work:
+Today, Adrian is Co-Founder and CTO for E7, an Australian software product development company. E7 is delivering technology advances for the construction industry, in particular, leveraging Lean and Agile methods to develop practical and innovative engineering solutions.
 
-* Beautiful, minimal design
-* Fixed sidebar images that animate as you browse
-* Single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio/projects post type to show your work
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
-
-## Get Index
-
-Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
-
-<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>
+Adrian is regularly called on for his specialist experience, which spans industries including aerospace, banking, construction, digital media, engineering, insurance, mining and public infrastructure. He is also an Agile coach and regular contributor at Australian and international conferences.
