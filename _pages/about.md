@@ -1,7 +1,7 @@
 ---
 title: Adrian Smith
 subtitle: Personal blog
-featured_image: /images/demo/demo-square.jpg
+featured_image: /images/paddington-city-view.jpg
 ---
 
 Dr Adrian Smith is an industry leader in adapting and applying Agile and Lean methods within software engineering and business technology. As a sought-after consultant, he has led and coached engineering and software development teams for major brands including Airbus, GKN Aerospace, BBC Worldwide, Suncorp, Nokia and Data#3.
