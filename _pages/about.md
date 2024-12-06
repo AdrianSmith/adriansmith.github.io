@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 author_profile: true
 title: Adrian Smith
 permalink: /about/
@@ -11,53 +12,54 @@ As a co-founder and former CTO of E7, Adrian led and coached engineering and sof
 
 ## Education
 
-### The University of Queensland
+### [The University of Queensland](https://www.uq.edu.au/)
+![UQ Logo]({{ site.baseurl }}/assets/images/uq_logo.png){: .align-right width="300px"}
 - **PhD, Mechanical Engineering** - *1998*
 - **BE (Hons 1), Mechanical Engineering** - *1993*
 
 ## Experience
 
-### Bentley Systems - Director of Product Development
+### [Bentley Systems](https://www.bentley.com/) - Director of Product Development
 **2021 - Present** | *Brisbane, Australia*
 
 Responsible for technical product development across the construction suite of products.
 
-### E7 - Co-Founder and CTO
+### [E7 (now Bentley Systems)](https://www.bentley.com/) - Cofounder and CTO
 **2008 - 2021** | *Brisbane, Australia*
 
-Co-founder and CTO delivering next-generation software solutions for the construction industry.
+Building and delivering next-generation of web and mobile software solutions for the construction industry.
 
-### University of Technology, Sydney - Lecturer, Post Graduate School
+### [University of Technology, Sydney](https://www.uts.edu.au/) - Lecturer, Post Graduate School
 **2013 - 2014** | *Sydney, Australia*
 
 Creation and delivery of Agile course content for postgraduate students in the Master of Project Management.
 
-### Data#3 - Agile Coach
+### [Data#3](https://www.data3.com) - Agile Coach
 **2012 - 2013** | *Brisbane, Australia*
 
 Setup and coach project delivery teams in the use of Agile practices together with wider organizational adoption of Agile.
 
-### Suncorp - Agile Coach
+### [Suncorp](https://www.suncorp.com.au/) - Agile and Business Coach
 **2010 - 2013** | *Brisbane, Australia*
 
 Coaching software development and production support teams in Agile and Lean practices across Insurance and Banking.
 
-### BBC Worldwide - Software Development Manager
+### [BBC Worldwide](https://www.bbc.com/) - Software Development Manager
 **2007 - 2008** | *London, UK*
 
 Managed the development, support, and enhancement of global media web products inccluding TopGear, RadioTime, GoodFood and Gardeners World.
 
-### Department of Transport and Main Roads - Director of Applications
+### [Department of Main Roads](https://www.tmr.qld.gov.au/) - Director of Applications
 **2007** | *Brisbane, Australia*
 
 Managed the development and delivery of applications for the Queensland Government.
 
-### GKN Aerospace - Technical Specialist - Design and Analysis
+### [GKN Aerospace](https://www.gknaerospace.com/) - Technical Specialist - Design and Analysis
 **2001 - 2007** | *Brisbane, Australia*
 
 Established and managed a software development group specializing in bespoke application development for civil and military aerospace vehicles.
 
-### Airbus - Engineering Design Specialist
+### [Airbus](https://www.airbus.com/) - Engineering Design Specialist
 **2000 - 2001** | *Bristol, UK*
 
 Software development for the automation of aerospace engineering design, analysis, and manufacture.
