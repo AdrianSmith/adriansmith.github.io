@@ -14,8 +14,8 @@ As a co-founder and former CTO of E7, Adrian led and coached engineering and sof
 
 ### [The University of Queensland](https://www.uq.edu.au/)
 ![UQ Logo]({{ site.baseurl }}/assets/images/uq_logo.png){: .align-right width="300px"}
-- **PhD, Mechanical Engineering** - *1998*
-- **BE (Hons 1), Mechanical Engineering** - *1993*
+- **1994 - 1998 PhD, Mechanical Engineering**
+- **1990 - 1993 BE (Hons 1), Mechanical Engineering**
 
 ## Experience
 
