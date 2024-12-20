@@ -7,6 +7,7 @@ comments: true
 share: true
 related: true
 title: "Engineering Design Framework"
+description: "An engineering design framework for mechanical part and assembly design."
 ---
 
 The effectiveness of software application frameworks such as [Ruby on Rails](https://rubyonrails.org/), automated build tools like [Maven](https://maven.apache.org/), and architectural design patterns like [Model-View-Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller), demonstrate the value of a structured approach to development tasks. For me, the expression _"[convention over configuration](https://en.wikipedia.org/wiki/Convention_over_configuration)"_ really sums it up. When I'm developing an application I'm far more interested in the business logic rather than the inner workings of the framework or how I should structure an application.

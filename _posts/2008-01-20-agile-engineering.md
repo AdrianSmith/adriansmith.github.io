@@ -7,6 +7,7 @@ comments: true
 share: true
 related: true
 title: "Applying Agile Principles to Traditional Engineering Design"
+description: "Can the principles of agile software development be applied to traditional engineering product design?"
 ---
 ![full]({{ site.baseurl }}/assets/images/drawing_room.jpg){: .full}
 

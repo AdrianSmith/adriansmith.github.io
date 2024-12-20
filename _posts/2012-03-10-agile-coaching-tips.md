@@ -7,7 +7,7 @@ comments: true
 share: true
 related: true
 title: "Agile Coaching Tips"
-description: "Eight essential tips for aspiring Agile coaches to help teams successfully adopt and improve Agile practices. Learn how to stay focused and achieve meaningful outcomes in your coaching engagements."
+description: "Eight essential tips for aspiring Agile coaches to help teams successfully adopt and improve Agile practices."
 ---
 
 ## Introduction

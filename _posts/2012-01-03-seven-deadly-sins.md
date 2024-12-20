@@ -7,7 +7,7 @@ comments: true
 share: true
 related: true
 title: "Seven Deadly Sins of Automated Testing"
-description: "Seven deadly sins of automated testing. Learn how to avoid these pitfalls and improve your automated testing efforts."
+description: "Seven comm on pitfalls of automated testing."
 ---
 
 ![Seven Deadly Sins]({{ site.baseurl }}/assets/images/sins/seven-deadly-sins.png){: .align-right width="300px" alt="Seven Deadly Sins"}

@@ -7,6 +7,7 @@ comments: true
 share: true
 related: true
 title: "Are There Real Benefits to Follow the Sun and Remote Working?"
+description: "Are there real benefits to Follow the Sun and Remote Working?"
 ---
 
 ![full]({{ site.baseurl }}/assets/images/sunset.jpg){: .full}
