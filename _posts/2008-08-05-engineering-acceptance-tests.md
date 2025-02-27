@@ -8,6 +8,8 @@ share: true
 related: true
 title: "Automated Acceptance Tests for Engineering Design"
 description: "Apply automated acceptance tests to engineering design."
+date: 2008-08-05
+show_date: true
 ---
 
 Acceptance tests define exactly what stake-holders expect of a system and are therefore a critical part of the system specification. Automation of these tests has gained popularity within the agile software community, following the success of [Test and Behaviour Driven Development](https://en.wikipedia.org/wiki/Test-driven_development), and are commonly referred to as [Executable Specifications](https://gojko.net/books/specification-by-example/). The popularity has given rise to the development of a number of software tools that support the definition and execution of acceptance tests. As you would expect, there are also a range of engineering tools that support automated design verification. However, there seems to be some fundamental differences in the two approaches.

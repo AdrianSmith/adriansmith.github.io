@@ -8,11 +8,13 @@ share: true
 related: true
 title: "Are There Real Benefits to Follow the Sun and Remote Working?"
 description: "Are there real benefits to Follow the Sun and Remote Working?"
+date: 2009-02-25
+show_date: true
 ---
 
-![full]({{ site.baseurl }}/assets/images/sunset.jpg){: .full}
-
 I’ve had a couple of first hand experiences using both Follow the Sun and Remote Working models for both engineering design and software development. In each case the model was based on moving the work between sites in different time-zones/geographic locations and the results were mixed. Recently, the issue has come up again at work, as a result of a recent business acquisition and there have been numerous debates on how this might work. So the help clarify my thoughts, I want to consider the costs and benefits, together with some ideas for making and objective decision.
+
+![full]({{ site.baseurl }}/assets/images/sunset.jpg){: .full}
 
 ## Benefits
 

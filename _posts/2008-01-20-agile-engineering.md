@@ -6,12 +6,15 @@ read_time: true
 comments: true
 share: true
 related: true
+show_date: true
+date: 2008-01-20
 title: "Applying Agile Principles to Traditional Engineering Design"
 description: "Can the principles of agile software development be applied to traditional engineering product design?"
 ---
-![full]({{ site.baseurl }}/assets/images/drawing_room.jpg){: .full}
 
 Agile software development methods evolved as a reaction to traditional project management methods that focus on documentation, change control and the linear execution of tasks. Agile methods recognize the complex and highly non-linear nature of software development and address the associated risks by encouraging a range of working practices. While these practices are well accepted within the software industry, they have not yet permeated into the more traditional engineering design disciplines found in the aerospace, mechanical or civil engineering industries. The following considers the how some of the main agile principles and practices associated with Scrum, eXtreme Programming and Test-Driven Development, could be applied.
+
+![full]({{ site.baseurl }}/assets/images/drawing_room.jpg){: .full}
 
 ### Small Regular Deliverables
 At the heart of agile is the incremental delivery of projects in small regular intervals, rather than one large delivery at the end. Each of the delivery iterations is a subset of the entire development lifecycle and is demonstrated to the customer. This has the effect of reducing the risks associated with the development progressing in a direction that is not consistent with customer requirements. Applying this principle to engineering design does have some limitations, particularly since the cost and complexity of construction usually prohibits multiple iterations. However, within the design phase of an engineering project, there are good opportunities to use this approach and it is this part of the product life cycle that has been considered.

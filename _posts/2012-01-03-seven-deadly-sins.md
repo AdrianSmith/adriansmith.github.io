@@ -7,12 +7,14 @@ comments: true
 share: true
 related: true
 title: "Seven Deadly Sins of Automated Testing"
-description: "Seven comm on pitfalls of automated testing."
+description: "Seven common pitfalls of automated testing."
+date: 2012-01-03
+show_date: true
 ---
 
-![Seven Deadly Sins]({{ site.baseurl }}/assets/images/sins/seven-deadly-sins.png){: .align-right width="300px" alt="Seven Deadly Sins"}
-
 When [Craig Smith](https://craigsmith.id.au) and I were planning our presentation for Agile 2011 – we toyed with the idea of listing 7 anti-patterns for automated testing. I’ve taken these patterns and loosely matched them to the classic seven-deadly-sins. This metaphor also allowed me to include a linocut that my uncle Errol Smith made – pictured here.
+
+![Seven Deadly Sins]({{ site.baseurl }}/assets/images/sins/seven-deadly-sins.png){: .align-right width="300px" alt="Seven Deadly Sins"}
 
 Senior management often view automated testing as a silver bullet in reducing testing effort/costs and increasing delivery speed. While it is true that automated tests can provide rapid feedback on health of the system, all approaches to automated testing are not created equal and there are some gotchas that should be avoided.
 

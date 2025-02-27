@@ -8,9 +8,9 @@ share: true
 related: true
 title: "Agile Coaching Tips"
 description: "Eight essential tips for aspiring Agile coaches to help teams successfully adopt and improve Agile practices."
+date: 2012-03-10
+show_date: true
 ---
-
-## Introduction
 
 A couple of months ago I was asked to put together an article for the quarterly AgileTODAY magazine as part of the 2012 Agile Australia conference workshops. After a whiteboard session with [Craig Smith](https://craigsmith.id.au) I put together these 8 tips which will hopefully help aspiring Agile coaches.
 
