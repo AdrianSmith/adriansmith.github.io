@@ -32,6 +32,12 @@ It was important to build my strength and flexibility in my residual limb. I was
 
 The rehab ward also allowed for weekend passes to go home, which was a great opportunity to see my family and get a break from the hospital. It also allowed me to get a better nights sleep and do some more normal stuff like washing, cooking, swimming in the pool and going to dinner. We even managed to go to a concert [Hozier](https://hozier.com), something I hadn't done in years and something we had bought tickets for before I got sick. The concert was fantastic and a perfect. Because of my amputation I was given access to the disabled area which meant that food and drink were brought to directly to us.
 
+## Learning to Drive
+![IMG_3743.jpeg]({{ site.url }}/assets/images/cancer/IMG_3743.jpeg){: .align-left width="300px" alt="Rehabilitation progress"}
+With my right foot removed, I needed to update my license and modify my vehicle so that I could drive again. The freedom of being able to drive has always been a big part of my identity and I was looking forward to getting that back.
+
+I needed an OT assessment and a driving test to get my license updated. Both of these were easy to pass and after 4 hours of driving practice I was given the all clear  to drive. So I then got a medical certificate and headed into the Department of Transport and got my new license and was driving again.
+
 ## Prosthetic Limb
 ![IMG_3915.jpeg]({{ site.url }}/assets/images/cancer/IMG_3915.jpeg){: .align-right width="300px" alt="Prosthetic fitting process"}
 
